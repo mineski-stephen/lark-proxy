@@ -1,0 +1,9 @@
+# Keep the image to just the proxy — docs and cruft don't belong in it.
+README.md
+Dockerfile
+.dockerignore
+__pycache__/
+*.pyc
+.git
+.gitignore
+.DS_Store
